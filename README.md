@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ADARSH</h1>
 <h3 align="center">Passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on *TrendHive E-Commerce Website*
+- 🔭 I’m currently working on **
 
-- 🌱 I’m currently learning *NodeJS*
+- 🌱 I’m currently learning *React*
 
 - 💬 Ask me about *JavaScript, Responsive web design, and etc*
 
